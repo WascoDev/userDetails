@@ -1,0 +1,68 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+a {
+ text-decoration: none;
+}
+
+body {
+ font-family: 'Poppins', sans-serif;
+ background: #eeeeee;
+}
+main {
+ display: flex;
+ margin: 0 auto;
+}
+
+section {
+ width: 350px;
+ padding: 16px;
+ margin: 5rem auto;
+ background: #551a8b;
+ color: #000;
+ border-radius: 5px;
+ line-height: 2;
+ box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header h2 {
+ text-align: center;
+}
+
+section .profile-pic {
+ width: 90px;
+ object-fit: cover;
+ height: 90px;
+ border-radius: 50%;
+}
+
+section p {
+ font-weight: 600;
+}
+
+span {
+ font-weight: normal;
+ color: #eeee;
+}
+
+footer {
+ position: absolute;
+ bottom: 0;
+ left: 20%;
+ right: 20%;
+ display: flex;
+}
+
+footer div {
+ font-style: italic;
+ margin: 0 auto;
+ padding-bottom: 16px;
+ transition: all 200ms ease;
+}
+
+div a:hover {
+ font-weight: 600;
+ text-decoration: underline;
+}
