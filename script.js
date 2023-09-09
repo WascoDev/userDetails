@@ -1,3 +1,4 @@
+// variable names
 const dayOfWeekEl = document.getElementById('dayOfWeek')
 const utcEl = document.getElementById('utcTime')
 
@@ -11,8 +12,8 @@ const dayOfWeek = [
  'Friday',
  'Saturday',
 ]
-const date = new Date()
 
+// method of displaying time
 function updateUtcTime() {
  const date = new Date()
  const hours = date.getUTCHours()
@@ -27,7 +28,3 @@ function updateUtcTime() {
  }, 1000)
 }
 updateUtcTime()
-
-// const utc = date.toUTCString()
-
-// display the utc time to dom
