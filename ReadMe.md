@@ -25,13 +25,13 @@
 
 ### Continued development
 
-I'm really happy on working on this project. I'm passionate on coding and i'm looking foward to take my skill to new level working with html, css, boostrap, tailwindcss, javascript, react, next js, node and much more also looking for a team to collaborate with on working on a realife project.
+I'm thrilled about working on this project. I'm passionate about coding and I'm looking forward to taking my skill to a new level working with HTML, CSS, Bootstrap, Tailwind CSS, javascript, React, and much more also looking for a team to collaborate with on working on a real-life project.
 
 ### Useful resources
 
-- [1](https://developer.mozilla.org/en-US/docs/Web/CSS) - This really help me in better understanding of css. I really liked this pattern and will use it going forward.
+- [1](https://developer.mozilla.org/en-US/docs/Web/CSS) - This really helped me in better understanding of CSS. I really liked this pattern and will use it going forward.
 
 ## Acknowledgments
 
-First and foremost, praises and thanks to almighty for his blessing through out my resarch successfully.
-I would like to express my special thanks to HNGx for giving me this challenge to do. it really hepful to me and i gained a lot while working on the project.
+First and foremost, praises and thanks to the almighty for his blessing throughout my research successfully.
+I want to express my special thanks to HNGx for giving me this challenge. it really helpful to me and I gained a lot while working on the project.
